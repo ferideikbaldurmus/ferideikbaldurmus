@@ -1,14 +1,6 @@
-
-
 <!--
 **ferideikbaldurmus/ferideikbaldurmus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
-
-- 🔭 I’m currently working on Front-End and Data Science
-- 🌱 I’m currently learning JavaScript and Python
-- 📫 How to reach me: ferideikbaldurmus@gmail.com
-
 <h2 align="left">Hi 👋🏻, I'm Feride İkbal Durmuş</h2>
 
 ###
@@ -61,3 +53,6 @@
 </div>
 
 ###
+- 🔭 I’m currently working on Front-End and Data Science
+- 🌱 I’m currently learning JavaScript and Python
+- 📫 How to reach me: ferideikbaldurmus@gmail.com
