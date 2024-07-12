@@ -4,6 +4,7 @@
 # 🙌🏻 About Me:
 Hi 👋🏻, I'm Feride İkbal Durmuş<br>I am a 19-year-old Turkish software developer. Also, I live in my country.<br>🔭 I’m currently working on Front-End and Data Science<br>🌱 I’m currently learning JavaScript and Python<br>📫 How to reach me ferideikbaldurmus@gmail.com<br>👩🏻‍💻 All of my projects are available at https://github.com/ferideikbaldurmus?tab=repositories<br>
 
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ferideikbaldurmus/) 
 
