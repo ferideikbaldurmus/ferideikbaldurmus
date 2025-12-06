@@ -1,55 +1,27 @@
-<div align="center">
+<!--
+**ferideikbaldurmus/ferideikbaldurmus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+# 🙌🏻 About Me:
+Hi 👋🏻, I'm Feride İkbal Durmuş<br>I am a 20-year-old Turkish software developer. Also, I live in my country.<br>🔭 I’m currently working on Front-End and Data Science<br>🌱 I’m currently learning JavaScript and Python<br>📫 How to reach me ferideikbaldurmus@gmail.com<br>👩🏻‍💻 All of my projects are available at https://github.com/ferideikbaldurmus?tab=repositories<br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=30&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Hi+👋🏻,+I'm+Feride+Ikbal+Durmus;Developing+Front-End+Solutions;Exploring+Data+Science+%26+AI;Welcome+to+my+digital+garden!" alt="Typing SVG" />
 
-<p align="center">
-  <b>Computer Engineering Student & Developer based in Turkey 🇹🇷</b><br/>
-  Creating visual experiences with code and analyzing the world with data.
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ferideikbaldurmus/) 
 
-<p align="center">
-  <a href="mailto:ferideikbaldurmus@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ferideikbaldurmus%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/SENIN-KULLANICI-ADIN/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/ferideikbaldurmus">
-    <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-black?style=flat-square&logo=github&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ferideikbaldurmus&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ferideikbaldurmus&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ferideikbaldurmus&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-</div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ferideikbaldurmus&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-<br />
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ferideikbaldurmus&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<h3>🧐 About Me</h3>
+---
+[![](https://visitcount.itsvg.in/api?id=ferideikbaldurmus&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 🔭 I’m currently working on bridging the gap between **UI Design** and **Data Analysis**.
-- 🌱 I’m currently deep diving into **JavaScript (React)** and **Python (Pandas, NumPy)**.
-- 👩🏻‍💻 I believe in **clean code** and **user-centric design**.
-- ⚡ Fun fact: I love learning new languages, both human and machine!
-
-<br />
-
-<h3>🛠 Tech Stack & Tools</h3>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,python,tensorflow,git,github,vscode,figma&theme=dark" alt="My Skills" />
-</div>
-
-<br />
-
-<h3>📊 GitHub Analytics</h3>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ferideikbaldurmus&show_icons=true&theme=transparent&hide_border=true&title_color=2F80ED&text_color=8b949e&icon_color=2F80ED" height="150" alt="stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferideikbaldurmus&layout=compact&theme=transparent&hide_border=true&title_color=2F80ED&text_color=8b949e" height="150" alt="languages" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ferideikbaldurmus&label=Profile%20Views&color=2F80ED&style=flat-square" alt="views" />
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
