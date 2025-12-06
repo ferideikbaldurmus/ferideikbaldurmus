@@ -1,4 +1,6 @@
-![Profile Banner](ferideikbaldurmus.gif)
+<p align="center">
+  <img src="ferideikbaldurmus.gif" width="300" height="300 />
+</p>
 <!--
 **ferideikbaldurmus/ferideikbaldurmus** is
 
