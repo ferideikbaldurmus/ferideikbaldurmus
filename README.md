@@ -1,5 +1,9 @@
 <!--
-**ferideikbaldurmus/ferideikbaldurmus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ferideikbaldurmus/ferideikbaldurmus** is
+
+Uploading Animasyonlu_Video_Oluşturma.mp4…
+
+ a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 # 🙌🏻 About Me:
 Hi 👋🏻, I'm Feride İkbal Durmuş<br>I am a 20-year-old Turkish software developer. Also, I live in my country.<br>🔭 I’m currently working on Front-End and Data Science<br>🌱 I’m currently learning JavaScript and Python<br>📫 How to reach me ferideikbaldurmus@gmail.com<br>👩🏻‍💻 All of my projects are available at https://github.com/ferideikbaldurmus?tab=repositories<br>
