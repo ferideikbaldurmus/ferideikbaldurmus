@@ -10,7 +10,7 @@ I am a 20-year-old Turkish software developer. I live in Turkey.<br>
 📫 How to reach me: ferideikbaldurmus@gmail.com<br>
 👩🏻‍💻 All of my projects are available at <a href="https://github.com/ferideikbaldurmus?tab=repositories">GitHub Repositories</a><br>
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/ferideikbaldurmus/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
