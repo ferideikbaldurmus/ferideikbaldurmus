@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="ferideikbaldurmus.gif" height="400"/>
-</p>
 <!--
 **ferideikbaldurmus/ferideikbaldurmus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
