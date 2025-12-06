@@ -1,6 +1,4 @@
-<video controls autoplay loop muted width="100%">
-  <source src="ferideikbaldurmus.mp4" type="video/mp4">
-</video>
+![Profile Banner](ferideikbaldurmus.gif)
 <!--
 **ferideikbaldurmus/ferideikbaldurmus** is
 
